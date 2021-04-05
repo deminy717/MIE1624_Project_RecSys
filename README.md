@@ -5,7 +5,7 @@ MIE1624 2021 Winter Group Project - DNN based RecSys
 
 # Original Repo
 The repo is modified from ShomyLiu/Neu-Review-Rec, the original implementation is credit to ShomyLiu
-More details please refer to [ShomyLiu/Neu-Review-Rec] (http://phoenix.yizimg.com/ShomyLiu/Neu-Review-Rec)
+More details please refer to [ShomyLiu/Neu-Review-Rec] (http://phoenix.yizimg.com/ShomyLiu/Neu-Review-Rec/)
 
 # References
 > 
